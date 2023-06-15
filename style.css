@@ -53,6 +53,7 @@ svg {
 
 .testimonial-user-name {
     font-size: .95rem;
+    font-weight: 600;
     color: var(--fg);
 }
 
@@ -63,6 +64,7 @@ svg {
 
 .testimonial-title {
      font-size: 1.3rem;
+     font-weight: 600;
      line-height: 1.3;
 }
 
